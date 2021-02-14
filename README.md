@@ -1,2 +1,2 @@
 # Planner
-Plannwr
+Calendar, Journal, To-Do
